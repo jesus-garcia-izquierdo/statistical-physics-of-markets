@@ -6,7 +6,6 @@ check honestly where they work and where they don't.
 
 The full write-up (20 pages, with all the derivations and figures) is in
 [`document_en/Four_ideas_statistical_physics_markets.pdf`](document_en/Four_ideas_statistical_physics_markets.pdf).
-There's also a Spanish version in [`documento/`](documento/Fisica_de_los_mercados.pdf).
 
 ![Hysteresis in a mean-field Ising market](img/fig4_respuesta.png)
 
@@ -50,7 +49,7 @@ comun.py            data loading and plot style, shared by the four scripts
 figures/, figuras/  generated figures (English / Spanish labels)
 img/                a few PNGs for this README
 document_en/        LaTeX source + PDF of the write-up (English)
-documento/          LaTeX source + PDF (Spanish)
+
 ```
 
 The code comments are in Spanish (my first language); the write-up explains everything in English.

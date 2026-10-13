@@ -1,0 +1,40 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Motivation}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The minimum amount of finance needed}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Data and layout}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}The price as a Brownian particle}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Physics: a walker with no memory}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Market version}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Risk grows like the square root of time}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Checking it against the data}{4}{subsection.2.4}%
+\contentsline {paragraph}{No memory.}{4}{subsection.2.4}%
+\contentsline {paragraph}{Diffusion.}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Where it breaks: extreme days}{5}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Volatility as temperature}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Physics: a particle in a heat bath}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Market version}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}A thermometer for the market}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}The sign has no memory, the size does}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}A toy model: two temperatures are enough}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}A thermometer with memory}{9}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}What temperature explains, and what it doesn't}{9}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Tomorrow's temperature can be predicted}{10}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Prices that come back: a particle on a spring}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Market version first}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Physics: Langevin with a spring}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Relaxation and half-life}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Equilibrium is Boltzmann}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Measuring the spring from data}{12}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Real data: is there a spring between the Nasdaq and the S\&P~500?}{13}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Herding, bubbles and crashes: the Ising model}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Market version first}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Physics: spins that align}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}The translation}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Mean field: everyone looks at the average}{15}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Energy against entropy}{16}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Three simulated markets}{16}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Susceptibility: small news, big effects}{16}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Hysteresis: a crash as a first-order transition}{18}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Limitations}{18}{subsection.5.9}%
+\contentsline {section}{\numberline {6}Summary and next steps}{18}{section.6}%
+\contentsline {section}{\numberline {A}Running the code}{19}{appendix.A}%
